@@ -1,1 +1,90 @@
 
+{
+  "externalId": null,
+  "userName": "john",
+  "name": {
+    "familyName": "Doe",
+    "givenName": null,
+    "middleName": null,
+    "honorificPrefix": null,
+    "honorificSuffix": null,
+    "formatted": null
+  },
+  "displayName": "John Doe",
+  "nickName": "john",
+  "profileUrl": null,
+  "title": "Vice President",
+  "userType": "Contractor",
+  "preferredLanguage": "en",
+  "locale": "en-US",
+  "timezone": "America/Los_Angeles",
+  "active": false,
+  "password": "john123",
+  "emails": {
+    "value": "john@doe.com",
+    "display": null,
+    "type": "work",
+    "primary": true
+  },
+  "phoneNumbers": {
+    "value": "+1-555-555-8377",
+    "display": null,
+    "type": "fax",
+    "primary": true
+  },
+  "ims": {
+    "value": null,
+    "display": null,
+    "type": "gtalk",
+    "primary": true
+  },
+  "photos": {
+    "value": "https://test-jans.com/john.png",
+    "display": null,
+    "type": "thumbnail",
+    "primary": true
+  },
+  "addresses": {
+    "formatted": null,
+    "streetAddress": "56 Acacia Avenue",
+    "locality": null,
+    "region": null,
+    "postalCode": null,
+    "country": "US",
+    "type": "home",
+    "primary": false
+  },
+  "groups": {
+    "value": "",
+    "$ref": "",
+    "display": "Manager",
+    "type": "direct"
+  },
+  "entitlements": {
+    "value": "Stakeholder",
+    "display": null,
+    "type": null,
+    "primary": false
+  },
+  "roles": {
+    "value": "Project manager",
+    "display": null,
+    "type": null,
+    "primary": false
+  },
+  "x509Certificates": {
+    "value": null,
+    "display": null,
+    "type": null,
+    "primary": true
+  },
+  "urn:ietf:params:scim:schemas:extension:gluu:2.0:User": {},
+  "schemas": [],
+  "id": null,
+  "meta": {
+    "resourceType": null,
+    "created": null,
+    "lastModified": null,
+    "location": null
+  }
+}
