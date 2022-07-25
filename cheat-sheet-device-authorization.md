@@ -5,9 +5,9 @@ To use CURL commands and configure Janssen's Authorization server, you need to h
 ### 1. Obtaining an Access token
 All commands to configure the AS are protected by an Access token. According to the use case, you must specify the `scope` for which the access token has been requested.
 
-|  📝 Note: |
-|:---|
-| The client_id for Config-API is  `1800.c60b3b0c-7841-4898-8209-6d5b2305441f`. <br/>For the client_secret, contact your administrator.|
+
+> 📝 Note
+>	The client_id for Config-API is  `1800.c60b3b0c-7841-4898-8209-6d5b2305441f`. <br/>For the client_secret, contact your administrator.
 
 
 ```
